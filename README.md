@@ -1,6 +1,6 @@
 # authProject
 
-[Deploy](https://wo0r8.csb.app/)
+[Deploy](https://5neou.csb.app/)
 
 Members
 
