@@ -1,0 +1,45 @@
+/* body {
+    background-image: url("https://acegif.com/wp-content/gifs/book-73.gif");
+    background-color: #cccccc;
+   background-color: #cccccc; 
+  height: 500px; 
+  background-position: center; 
+  background-repeat: no-repeat; 
+  background-size: cover; 
+  } */
+
+  .cardsignup{
+      background-image:  url('https://img.freepik.com/free-photo/stationery-light-blue-surface_261761-790.jpg?size=626&ext=jpg&ga=GA1.2.1386205135.1625270400');
+     
+      background-repeat: no-repeat;
+      -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  }
+
+  form {
+    display: block;
+    margin-top: 0em;
+}
+
+body{
+    background-color: #D4EFFF;
+}
+
+/* .cardLogin{
+    background-image:  url('https://i.pinimg.com/236x/7c/9c/32/7c9c321d412907453650b78c1281ce20.jpg');
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+} */
+
+
+
+/* label[data-shrink=false]+.MuiInputBase-formControl .css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input {
+    padding: 16.5px 89px;
+    border-radius: 28px;
+} */
+
